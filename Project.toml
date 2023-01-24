@@ -1,4 +1,4 @@
 name = "Foo"
 uuid = "0ddcea8f-262d-4337-98ae-71dea8f26d4f"
 authors = ["Bartek Chaber <bartosz.chaber@pw.edu.pl>"]
-version = "0.1.1"
+version = "0.1.2"

@@ -1,6 +1,6 @@
 module Foo
 
 struct Bar A :: Vector{Float64} end
-greet() = print("Hello World!")
-witaj() = print("Witaj Swiecie")
+greet() = print("Bye World!")
+witaj() = print("Zegnaj Swiecie")
 end # module
